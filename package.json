@@ -1,0 +1,14 @@
+{
+  "name": "nqmDDPSync",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toby.ealden@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ddp": "~0.11.0"
+  }
+}
